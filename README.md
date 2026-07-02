@@ -15,6 +15,7 @@ Robots move on a rectangular grid according to instructions (L = turn left, R = 
 
 ```bash
 git clone https://github.com/OlebogengK/MartianRobots.git
+cd MartianRobots
 mvn clean package
 java -jar target/martian-robots-1.0-SNAPSHOT.jar
 ```
